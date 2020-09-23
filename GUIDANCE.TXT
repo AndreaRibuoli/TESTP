@@ -1,1 +1,2 @@
-QCLSRC    BUILD     CLP       TESTP in sviluppo (CALL TESTP/BUILD)
+QCLSRC    BUILD     CLLE      Used from QTEMP during installation
+QCLSRC    EXAMPLE   CLP       Source file we want to keep in TESTP
