@@ -1,1 +1,2 @@
 QCLSRC    BUILD     CLP       TESTP in sviluppo (CALL TESTP/BUILD)
+QCLSRC    FINTO     CLP       diagnosi errore
