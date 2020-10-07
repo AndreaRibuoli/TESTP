@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 QCLSRC    BUILD     CLP       TESTP in sviluppo (CALL TESTP/BUILD)
 QCLSRC    FINTO     CLP       diagnosi errore
+=======
+QCLSRC    BUILD     CLLE      Used from QTEMP during installation
+QCLSRC    EXAMPLE   CLP       Source file we want to keep in TESTP
+>>>>>>> d568e67785115acf84df3a98733aaba58fcc42d2
